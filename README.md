@@ -1,3 +1,3 @@
 # hello_world
-apprendre git avec helloworld
-#Bonjour Nesrine
+apprende git avec helloworld
+bonjour Nesrine
